@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "936597679711",
+    "firebase_url": "https://chanhotalk.firebaseio.com",
+    "project_id": "chanhotalk",
+    "storage_bucket": "chanhotalk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936597679711:android:8d8884a67b1751ceb8f5ea",
+        "android_client_info": {
+          "package_name": "com.cookandroid.chanhotalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936597679711-3hpmunaqlrole81s4su966lc8qh25sj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cookandroid.chanhotalk",
+            "certificate_hash": "a76e63c8b59c9bf06673c13a4ee7f51237dc0200"
+          }
+        },
+        {
+          "client_id": "936597679711-2vqhsfn09mtsv7rfrnmkc80nvn6apkti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa7x8yM5LoWrGP9HbFrgRSOOrZ2TP-9jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936597679711-2vqhsfn09mtsv7rfrnmkc80nvn6apkti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
